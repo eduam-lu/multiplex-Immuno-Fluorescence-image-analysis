@@ -61,6 +61,7 @@ This notebook serves as both a descriptive overview of the patient cohort and a 
 ---
 
 ## Using NaroNet
+The version of NaroNet including all my minor modifications is included as a downloadable zip file
 ### main.py
 The central script controlling NaroNet execution.
 It guides the flow through the following modules:
