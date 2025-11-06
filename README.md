@@ -4,7 +4,7 @@ Eduardo Amo González
 This repository contains the implementation and adaptation of **NaroNet**, a graph-based neural network designed to analyze high-dimensional **multiplex immunofluorescence (mIF)** images and uncover the **hierarchical spatial organization** of the tumor microenvironment (TME).  
 In this project, NaroNet is applied to a cohort of mIF images from **142 patients diagnosed with High-Grade Serous Ovarian Cancer (HGSOC)** to identify **prognostic microenvironmental niches** or spatial tissue regions whose cellular composition and organization are predictive of patient outcomes.
 
-All the code can be found in the following github repo: 
+All the code can be found in the following github repo: https://github.com/eduam-lu/multiplex-Immuno-Fluorescence-image-analysis
 
 ---
 
